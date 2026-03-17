@@ -17,7 +17,7 @@ A Java-based graphical application for visualising genomic data using GTF and FA
 ## Installation & Setup
 1. Ensure Java 17+ is installed
 2. Open the project folder in NetBeans
-3. Run the project from NetBeans or using:
+3. Run the project from NetBeans
 
 
 ## Usage
